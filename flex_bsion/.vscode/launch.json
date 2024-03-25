@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/master/Library/Mobile Documents/com~apple~CloudDocs/大三上/编译原理/PL0-Complier/Semantic parser/code",
+      "program": "/Users/master/Library/Mobile Documents/com~apple~CloudDocs/大三上/编译原理/PL0-Complier/Semantic parser/code/build/Debug/outDebug"
+    }
+  ]
+}
